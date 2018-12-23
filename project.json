@@ -1,0 +1,7 @@
+{
+    "apis": {
+        "gitlab": {
+            "token"
+        }
+    }
+}

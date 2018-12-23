@@ -1,0 +1,26 @@
+{
+  "apis": {
+    "branch": "master",
+    "vsc": "git",
+    "token": "token",
+    "type": "gitlab",
+    "url": "url"
+  },
+  "projects": [{
+      "vcs": "git",
+      "branch": null,
+      "issues": {
+        "type": "gitlab",
+        "api": null
+      },
+      "reviews": {
+        "type": "gitlab",
+        "api": null
+      },
+      "ci": {
+        "type": "gitlab",
+        "api": null
+      }
+    }
+  ]
+}
